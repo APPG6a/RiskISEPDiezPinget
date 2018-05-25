@@ -2,13 +2,15 @@ package fr.isep.ii1202project.units;
 
 public abstract class Units {
 
+	private IDUnits id;
 	private int cost;
 	private int power;
 	private int attack;
 	private int defence;
 	private int movement;
 
-	public Units(int cost, int power, int attack, int defence, int movement) {
+	public Units(IDUnits id, int cost, int power, int attack, int defence, int movement) {
+		this.id = id;
 		this.cost = cost;
 		this.power = power;
 		this.attack = attack;
