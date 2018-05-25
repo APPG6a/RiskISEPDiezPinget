@@ -15,6 +15,8 @@ public class MainScreenGameState extends BasicGameState {
 
 	private Image background;
 	private Image logo;
+	private int logoWidth;
+	private int logoHeight;
 
 	private StateBasedGame game;
 
@@ -22,30 +24,23 @@ public class MainScreenGameState extends BasicGameState {
 	public void init(GameContainer container, StateBasedGame game) throws SlickException {
 		this.game = game;
 		WIDTH = container.getWidth();
-		System.out.println("Width acquired : " + WIDTH);
 		HEIGHT = container.getHeight();
-		System.out.println("Height acquired : " + HEIGHT);
+
 		this.background = new Image("/res/background.png");
 		this.logo = new Image("/res/logo-jeu-risk.png");
+
+		logoWidth = WIDTH / 2;
+		logoHeight = logo.getHeight() * logoWidth / logo.getWidth();
 	}
 
-	/**
-	 * Contenons nous d'afficher l'image de fond.
-	 * Le text est placé approximativement au centre.
-	 */
 	@Override
 	public void render(GameContainer container, StateBasedGame game, Graphics g) throws SlickException {
 		background.draw(0, 0, WIDTH, HEIGHT);
-		logo.draw(WIDTH / 4,
-				HEIGHT / 2 - (logo.getHeight() * (WIDTH / 2) / logo.getWidth() / 2),
-				WIDTH / 2,
-				logo.getHeight() * (WIDTH / 2) / logo.getWidth());
+		logo.draw((WIDTH - logoWidth) / 2, (HEIGHT - logoHeight) / 2, logoWidth, logoHeight);
 		g.drawString("Appuyer sur une touche", WIDTH / 2 - 100, HEIGHT / 6 * 5);
 	}
 
-	/**
-	 * Passer à l’écran de jeu à l'appui de n'importe quel touche.
-	 */
+
 	@Override
 	public void update(GameContainer container, StateBasedGame game, int delta) throws SlickException {
 	}
@@ -55,10 +50,6 @@ public class MainScreenGameState extends BasicGameState {
 		game.enterState(MapGameState.ID);
 	}
 
-	/**
-	 * L'identifiant permet d'identifier les différentes boucles.
-	 * Pour passer de l'une à l'autre.
-	 */
 	@Override
 	public int getID() {
 		return ID;
