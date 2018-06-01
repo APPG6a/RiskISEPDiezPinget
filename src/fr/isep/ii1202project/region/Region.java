@@ -9,6 +9,10 @@ public class Region {
 	private IDRegion id;
 	private List<Territory> territories;
 
+	public Region(IDRegion id) {
+		this.id = id;
+	}
+
 	public Region(IDRegion id, List<Territory> territories) {
 		this.id = id;
 		this.territories = territories;

@@ -2,6 +2,7 @@ package fr.isep.ii1202project.teritory;
 
 import fr.isep.ii1202project.region.IDRegion;
 import fr.isep.ii1202project.units.Units;
+import org.newdawn.slick.Image;
 
 import java.util.List;
 
@@ -11,13 +12,18 @@ public class Territory {
 	private IDRegion region;
 	private List<Units> garrison;
 	private List<Territory> borders;
+	private Image occupancy;
 
+	public Territory(IDTerritory id) {
+		this.id = id;
+	}
 
-	public Territory(IDTerritory id, IDRegion region, List<Units> garrison, List<Territory> borders) {
+	public Territory(IDTerritory id, IDRegion region, List<Units> garrison, List<Territory> borders, Image occupancy) {
 		this.id = id;
 		this.region = region;
 		this.garrison = garrison;
 		this.borders = borders;
+		this.occupancy = occupancy;
 	}
 
 	public IDTerritory getId() {
@@ -51,4 +57,14 @@ public class Territory {
 	public void setBorders(List<Territory> borders) {
 		this.borders = borders;
 	}
+
+	public Image getOccupancy() {
+		return occupancy;
+	}
+
+	public void setOccupancy(Image occupancy) {
+		this.occupancy = occupancy;
+	}
+
+//	TODO relationship mousePosition <-> isInTerritory
 }
