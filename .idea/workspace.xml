@@ -2,56 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93edcc8b-0321-4be4-80cc-a13f60840c02" name="Default" comment="Units and territories update">
-      <change afterPath="$PROJECT_DIR$/res/Map/Africa/Congo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Africa/EastAfrica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Africa/Egypte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Africa/NorthAfrica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Africa/SouthAfrica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Africa/madagascar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Afganistan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/China.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/India.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Irkutsk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Japan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Kamchatka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Middle East.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Mongolia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Siam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Siberia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Ural.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Asia/Yakutsk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Great Britain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Iceland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Northern Europe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Scandinavia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Southern Europe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Ukraine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Europe/Western Europe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Alaska.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Alberta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Central America.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Eastern United States.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Greenland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Northwest Territory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Ontario.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Quebec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/North America/Western United States.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Oceania/Eastern Australia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Oceania/Indonesia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Oceania/New Guinea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/Oceania/Western Australia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/RiskISEP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/South America/Argentina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/South America/Brazil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/South America/Peru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Map/South America/Venezuela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/MenuGameState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/States.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/States.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/units/Artillery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/units/Artillery.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,12 +31,12 @@
       <file leaf-file-name="MapGameState.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            <state relative-caret-position="340">
+              <caret line="239" column="107" selection-start-line="239" selection-start-column="107" selection-end-line="239" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1811#1812#0" expanded="true" />
-                <element signature="e#1827#1828#0" expanded="true" />
+                <element signature="e#6164#6165#0" expanded="true" />
+                <element signature="e#6180#6181#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,10 +45,19 @@
       <file leaf-file-name="Region.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="176">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
               <folding>
-                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,11 +120,14 @@
       <file leaf-file-name="Territory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="279">
+              <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +136,7 @@
       <file leaf-file-name="IDTerritory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/IDTerritory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
+            <state relative-caret-position="1020">
               <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
             </state>
           </provider>
@@ -190,9 +155,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>,,</find>
+      <find>Creating territory :</find>
     </findStrings>
     <replaceStrings>
       <replace>,\n</replace>
+      <replace>case</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -236,8 +203,8 @@
         <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/States.java" />
         <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/Main.java" />
         <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java" />
-        <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java" />
         <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java" />
+        <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java" />
         <option value="$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java" />
       </list>
     </option>
@@ -489,7 +456,7 @@
       <workItem from="1527249259765" duration="11248000" />
       <workItem from="1527596488765" duration="2099000" />
       <workItem from="1527685656515" duration="133000" />
-      <workItem from="1527852564817" duration="2773000" />
+      <workItem from="1527852564817" duration="9151000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for riskIsep project">
       <created>1525249477719</created>
@@ -530,7 +497,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51948000" />
+    <option name="totallyTimeSpent" value="58326000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,12 +522,13 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32768363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3233618" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26353276" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.525641" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2865772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2865772" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -573,7 +541,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -774,13 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/IDTerritory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -801,35 +761,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java">
+    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="176">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
+    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/IDTerritory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="1020">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
           <folding>
-            <element signature="e#244#245#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="340">
+          <caret line="239" column="107" selection-start-line="239" selection-start-column="107" selection-end-line="239" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1811#1812#0" expanded="true" />
-            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#6164#6165#0" expanded="true" />
+            <element signature="e#6180#6181#0" expanded="true" />
           </folding>
         </state>
       </provider>

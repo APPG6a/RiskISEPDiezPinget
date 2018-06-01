@@ -11,14 +11,14 @@ public class Territory {
 	private IDTerritory id;
 	private IDRegion region;
 	private List<Units> garrison;
-	private List<Territory> borders;
+	private List<IDTerritory> borders;
 	private Image occupancy;
 
 	public Territory(IDTerritory id) {
 		this.id = id;
 	}
 
-	public Territory(IDTerritory id, IDRegion region, List<Units> garrison, List<Territory> borders, Image occupancy) {
+	public Territory(IDTerritory id, IDRegion region, List<Units> garrison, List<IDTerritory> borders, Image occupancy) {
 		this.id = id;
 		this.region = region;
 		this.garrison = garrison;
@@ -50,11 +50,11 @@ public class Territory {
 		this.garrison = garrison;
 	}
 
-	public List<Territory> getBorders() {
+	public List<IDTerritory> getBorders() {
 		return borders;
 	}
 
-	public void setBorders(List<Territory> borders) {
+	public void setBorders(List<IDTerritory> borders) {
 		this.borders = borders;
 	}
 
