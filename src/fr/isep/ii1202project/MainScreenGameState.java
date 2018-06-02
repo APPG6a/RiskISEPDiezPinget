@@ -1,9 +1,6 @@
 package fr.isep.ii1202project;
 
-import org.newdawn.slick.GameContainer;
-import org.newdawn.slick.Graphics;
-import org.newdawn.slick.Image;
-import org.newdawn.slick.SlickException;
+import org.newdawn.slick.*;
 import org.newdawn.slick.state.BasicGameState;
 import org.newdawn.slick.state.StateBasedGame;
 
@@ -19,6 +16,7 @@ public class MainScreenGameState extends BasicGameState {
 	private int logoHeight;
 
 	private StateBasedGame game;
+	private GameContainer container;
 
 	@Override
 	public void init(GameContainer container, StateBasedGame game) throws SlickException {
@@ -31,6 +29,9 @@ public class MainScreenGameState extends BasicGameState {
 
 		logoWidth = WIDTH / 2;
 		logoHeight = logo.getHeight() * logoWidth / logo.getWidth();
+		this.container = container;
+		Music background = new Music("TheLoomingBattle.OGG");
+		background.loop();
 	}
 
 	@Override
