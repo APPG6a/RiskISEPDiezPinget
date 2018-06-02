@@ -1,15 +1,798 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93edcc8b-0321-4be4-80cc-a13f60840c02" name="Default" comment="Units and territories update">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="93edcc8b-0321-4be4-80cc-a13f60840c02" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/AngelCodeFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/AppGameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.ConsolePanel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.Container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.ContainerPanel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/BasicGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/BigImage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/CachedRender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/CanvasGameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/ControlledInputReciever.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/ControllerListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/GameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Graphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/ImageBuffer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/InputListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/KeyListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/MouseListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/MusicListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/PackedSpriteSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Renderable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/SavedState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/ScalableGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/ShapeFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/SlickException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/Sound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/SpriteSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/SpriteSheetFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/TrueTypeFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/UnicodeFont.DisplayList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/UnicodeFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/XMLPackedSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AngelCodeFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppGameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.ConsolePanel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.Container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.ContainerPanel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/BasicGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/BigImage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/CachedRender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/CanvasGameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ControlledInputReciever.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ControllerListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/GameContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Graphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ImageBuffer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/InputListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/KeyListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/MouseListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/MusicListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/PackedSpriteSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Renderable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SavedState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ScalableGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ShapeFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SlickException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Sound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SpriteSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SpriteSheetFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/TrueTypeFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/UnicodeFont.DisplayList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/UnicodeFont.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/XMLPackedSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/BasicCommand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/Control.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/ControllerButtonControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/ControllerDirectionControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/InputProvider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/InputProviderListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/KeyControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/MouseButtonControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/BasicCommand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/Control.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/ControllerButtonControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/ControllerDirectionControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/InputProvider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/InputProviderListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/KeyControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/MouseButtonControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/GradientFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/class-use/GradientFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/Glyph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/GlyphPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/HieroSettings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/class-use/Glyph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/class-use/GlyphPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/class-use/HieroSettings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ColorEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ConfigurableEffect.Value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ConfigurableEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/Effect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/EffectUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/FilterEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/GradientEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/OutlineEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/OutlineWobbleEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/OutlineZigzagEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ShadowEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ColorEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ConfigurableEffect.Value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ConfigurableEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/Effect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/EffectUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/FilterEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/GradientEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/OutlineEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/OutlineWobbleEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/OutlineZigzagEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ShadowEffect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/BasicTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Curve.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Ellipse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/GeomUtil.HitResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/GeomUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/GeomUtilListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/MannTriangulator.PointBag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/MannTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/MorphShape.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/NeatTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/OverTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Point.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Polygon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/RoundedRectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Shape.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/ShapeRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/TexCoordGenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Transform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Triangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Vector2f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/BasicTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Curve.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Ellipse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/GeomUtil.HitResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/GeomUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/GeomUtilListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/MannTriangulator.PointBag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/MannTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/MorphShape.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/NeatTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/OverTriangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Point.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Polygon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/RoundedRectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Shape.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/ShapeRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/TexCoordGenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Transform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Triangulator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Vector2f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/AbstractComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/BasicComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/ComponentListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/GUIContext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/MouseOverArea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/TextField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/AbstractComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/BasicComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/ComponentListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/GUIContext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/MouseOverArea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/TextField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageIOWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageOut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageWriterFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/TGAWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageIOWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageOut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageWriterFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/TGAWriter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/DeferredResource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/LoadingList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/class-use/DeferredResource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/class-use/LoadingList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/FileMuffin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/Muffin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/WebstartMuffin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/class-use/FileMuffin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/class-use/Muffin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/class-use/WebstartMuffin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/AiffData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/Audio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/AudioImpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/AudioLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/DeferredSound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/MODSound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/NullAudio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OggData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OggDecoder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OggInputStream.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OpenALStreamPlayer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/SoundStore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/StreamSound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/WaveData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/AiffData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/Audio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/AudioImpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/AudioLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/DeferredSound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/MODSound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/NullAudio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OggData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OggDecoder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OggInputStream.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OpenALStreamPlayer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/SoundStore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/StreamSound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/WaveData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/CompositeIOException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/CompositeImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/CursorLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/DeferredTexture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/EmptyImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/GLUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/ImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/ImageDataFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/ImageIOImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/InternalTextureLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/LoadableImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/PNGDecoder.Format.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/PNGDecoder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/PNGImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/SlickCallable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/TGAImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/Texture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/TextureImpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/TextureLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/CompositeIOException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/CompositeImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/CursorLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/DeferredTexture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/EmptyImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/GLUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/ImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/ImageDataFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/ImageIOImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/InternalTextureLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/LoadableImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/PNGDecoder.Format.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/PNGDecoder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/PNGImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/SlickCallable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/TGAImageData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/Texture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/TextureImpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/TextureLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/FBOGraphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/GraphicsFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/PBufferGraphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/PBufferUniqueGraphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/FBOGraphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/GraphicsFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/PBufferGraphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/PBufferUniqueGraphics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/DefaultLineStripRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/ImmediateModeOGLRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/LineStripRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/QuadBasedLineStripRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/Renderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/SGL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/VAOGLRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/DefaultLineStripRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/ImmediateModeOGLRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/LineStripRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/QuadBasedLineStripRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/Renderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/SGL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/VAOGLRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.ColorRecord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.LinearInterpolator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.RandomValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.Range.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.SimpleValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.Value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitterFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/Particle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ParticleEmitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ParticleIO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ParticleSystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.ColorRecord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.LinearInterpolator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.RandomValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.Range.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.SimpleValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.Value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitterFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/Particle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ParticleEmitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ParticleIO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ParticleSystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/FireEmitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/class-use/FireEmitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/BasicGameState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/GameState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/StateBasedGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/class-use/BasicGameState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/class-use/GameState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/class-use/StateBasedGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/BlobbyTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/CombinedTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/CrossStateTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/EmptyTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/FadeInTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/FadeOutTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/HorizontalSplitTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/RotateTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/SelectTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/Transition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/VerticalSplitTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/BlobbyTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/CombinedTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/CrossStateTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/EmptyTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/FadeInTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/FadeOutTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/HorizontalSplitTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/RotateTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/SelectTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/Transition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/VerticalSplitTransition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Diagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Figure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Gradient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/InkscapeLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/LinearGradientFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/NonGeometricData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/ParsingException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/RadialGradientFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/SVGMorph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/SimpleDiagramRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Diagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Figure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Gradient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/InkscapeLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/LinearGradientFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/NonGeometricData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/ParsingException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/RadialGradientFill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/SVGMorph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/SimpleDiagramRenderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/DefsProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/ElementProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/EllipseProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/GroupProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/InkscapeNonGeometricData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/LineProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/PathProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/PolygonProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/RectProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/UseProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/Util.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/DefsProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/ElementProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/EllipseProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/GroupProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/InkscapeNonGeometricData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/LineProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/PathProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/PolygonProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/RectProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/UseProcessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/Util.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/AlphaMapTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/AnimationTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/AntiAliasTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/BigImageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/BigSpriteSheetTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CachedRenderTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CanvasContainerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CanvasSizeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ClipTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CopyAreaAlphaTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CurveTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DeferredLoadingTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DistanceFieldTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DoubleClickTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DuplicateEmitterTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/FlashTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/FontPerformanceTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/FontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GUITest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomAccuracyTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomUtilTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomUtilTileTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GradientImageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GradientTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GraphicsTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageBufferEndianTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageBufferTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageCornerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageGraphicsTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageMemTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageOutTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageReadTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/InkscapeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/InputProviderTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/InputTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/IsoTiledTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/KeyRepeatTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/LameTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/LineRenderTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/MorphSVGTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/MorphShapeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/MusicListenerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/NavMeshTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PackedSheetTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ParticleTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PedigreeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PolygonTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PureFontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SavedStateTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ScalableTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ShapeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SlickCallableTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SoundPositionTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SoundTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SoundURLTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SpriteSheetFontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/StateBasedTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TestBox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TestUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TexturePaintTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TileMapTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransformTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransformTest2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransitionTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransparentColorTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TrueTypeFontPerformanceTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/UnicodeFontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/AlphaMapTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/AnimationTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/AntiAliasTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/BigImageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/BigSpriteSheetTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CachedRenderTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CanvasContainerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CanvasSizeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ClipTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CopyAreaAlphaTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CurveTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DeferredLoadingTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DistanceFieldTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DoubleClickTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DuplicateEmitterTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/FlashTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/FontPerformanceTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/FontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GUITest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomAccuracyTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomUtilTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomUtilTileTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GradientImageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GradientTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GraphicsTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageBufferEndianTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageBufferTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageCornerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageGraphicsTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageMemTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageOutTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageReadTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/InkscapeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/InputProviderTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/InputTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/IsoTiledTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/KeyRepeatTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/LameTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/LineRenderTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/MorphSVGTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/MorphShapeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/MusicListenerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/NavMeshTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PackedSheetTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ParticleTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PedigreeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PolygonTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PureFontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SavedStateTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ScalableTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ShapeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SlickCallableTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SoundPositionTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SoundTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SoundURLTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SpriteSheetFontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/StateBasedTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TestBox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TestUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TexturePaintTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TileMapTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransformTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransformTest2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransitionTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransparentColorTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TrueTypeFontPerformanceTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/UnicodeFontTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/TestState1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/TestState2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/TestState3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/class-use/TestState1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/class-use/TestState2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/class-use/TestState3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Entity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/GameData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Inventory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/ItemContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/ObjectParserTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Stats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/XMLTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Entity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/GameData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Inventory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/ItemContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/ObjectParserTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Stats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/XMLTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/Layer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TileSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TiledMap.GroupObject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TiledMap.ObjectGroup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TiledMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/Layer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TileSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TiledMap.GroupObject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TiledMap.ObjectGroup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TiledMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/BufferedImageUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/ClasspathLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/DefaultLogSystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FastTrig.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FileSystemLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FontUtils.Alignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FontUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/InputAdapter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/LocatedImage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/Log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/LogSystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/MaskUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/OperationNotSupportedException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/ResourceLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/ResourceLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/BufferedImageUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/ClasspathLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/DefaultLogSystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FastTrig.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FileSystemLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FontUtils.Alignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FontUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/InputAdapter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/LocatedImage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/Log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/LogSystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/MaskUtil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/OperationNotSupportedException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/ResourceLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/ResourceLocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/AStarHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/AStarPathFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/Mover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/Path.Step.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/Path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/PathFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/PathFindingContext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/TileBasedMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/AStarHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/AStarPathFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/Mover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/Path.Step.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/Path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/PathFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/PathFindingContext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/TileBasedMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ClosestHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ClosestSquaredHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ManhattanHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/class-use/ClosestHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/class-use/ClosestSquaredHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/class-use/ManhattanHeuristic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/Link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/NavMesh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/NavMeshBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/NavPath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/Space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/Link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/NavMesh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/NavMeshBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/NavPath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/Space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/ObjectTreeParser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/SlickXMLException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/XMLElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/XMLElementList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/XMLParser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/ObjectTreeParser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/SlickXMLException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/XMLElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/XMLElementList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/XMLParser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ibxm.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jnlp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jogg-0.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jorbis-0.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lwjgl_util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lwjgl_util_applet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/natives-linux.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/natives-mac.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slick-examples.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/tinylinepp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RiskISEP/1. God of War _ God of War OST.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RiskISEP/1020.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RiskISEP/TheLoomingBattle.OGG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/region/Territory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/1. God of War _ God of War OST.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/1020.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/TheLoomingBattle.OGG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/game-build-example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/slickdemo.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/slickexample.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/slicktemplate.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/slicktemplatewithdata.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/slickwithextension.jnlp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RiskISEP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RiskISEP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MainScreenGameState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MainScreenGameState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/teritory/Territory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/teritory/Territory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,12 +807,8 @@
       <file leaf-file-name="MainScreenGameState.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="e#1412#1413#0" expanded="true" />
-                <element signature="e#1451#1452#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="578">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -37,7 +816,7 @@
       <file leaf-file-name="Region.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="283">
               <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
               <folding>
                 <element signature="e#459#460#0" expanded="true" />
@@ -150,6 +929,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -184,7 +964,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,122 +991,6 @@
       <recent name="C:\Users\user\Desktop\II 1202 Algo\RiskISEP\RiskISEPDiezPinget\res" />
       <recent name="C:\Users\user\Desktop\II 1202 Algo\RiskISEP\RiskISEPDiezPinget\src\fr\isep\ii1202project" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/region/Region.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState$1.class</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -459,6 +1122,7 @@
       <workItem from="1527596488765" duration="2099000" />
       <workItem from="1527685656515" duration="133000" />
       <workItem from="1527852564817" duration="9151000" />
+      <workItem from="1527949319649" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for riskIsep project">
       <created>1525249477719</created>
@@ -495,11 +1159,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527258181823</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Units and territories update">
+      <created>1527948199640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527948199640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60006000" />
+    <option name="totallyTimeSpent" value="60775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,87 +1186,65 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32909605" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3799435" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24435028" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23892617" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2865772" />
-      <window_info id="Learn" order="2" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32768363" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26353276" />
-      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26353276" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.525641" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29060403" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Learn" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.525641" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32768363" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26353276" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2865772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info id="Image Layers" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Learn" order="2" />
-      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.525641" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32768363" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Learn" order="2" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,13 +1414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/IDRegion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/States.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -825,9 +1467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
           <caret line="225" column="5" selection-start-line="225" selection-start-column="5" selection-end-line="225" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#9427#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,9 +1477,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/newdawn/slick/openal/MODSound.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/IDRegion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="283">
           <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding>
             <element signature="e#459#460#0" expanded="true" />
@@ -857,21 +1504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/newdawn/slick/openal/MODSound.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="e#1412#1413#0" expanded="true" />
-            <element signature="e#1451#1452#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="578">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
