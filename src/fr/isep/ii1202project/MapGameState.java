@@ -24,7 +24,7 @@ public class MapGameState extends BasicGameState {
 	private int HEIGHT;
 
 	private Image background;
-
+	private Image dashboard;
 	private List<Region> regions = new ArrayList<>();
 	private List<Territory> territories = new ArrayList<>();
 
@@ -37,6 +37,7 @@ public class MapGameState extends BasicGameState {
 		HEIGHT = container.getHeight();
 
 		this.background = new Image("/res/Map/RiskISEP.png");
+		this.dashboard = new Image("/res/BlankPanel-3.png");
 
 		System.out.println("\n[START]\tConfiguration de la map\n");
 
@@ -265,6 +266,7 @@ public class MapGameState extends BasicGameState {
 	@Override
 	public void render(GameContainer container, StateBasedGame game, Graphics g) throws SlickException {
 		background.draw(WIDTH/5, 0, WIDTH*4/5, HEIGHT);
+		dashboard.draw(0, 0, WIDTH*1/5, HEIGHT);
 	}
 
 	@Override
