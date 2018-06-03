@@ -70,7 +70,7 @@ public class MapGameState extends BasicGameState {
 								IDTerritory.China,
 								IDTerritory.Mongolia,
 								IDTerritory.Japan,
-								Kamchatka,
+								IDTerritory.Kamchatka,
 								IDTerritory.Irkutsk,
 								IDTerritory.Yakutsk,
 								IDTerritory.Siberia,
@@ -121,13 +121,13 @@ public class MapGameState extends BasicGameState {
 					case NorthAmerica:
 						if (new ArrayList<>(Arrays.asList(
 								IDTerritory.CentralAmerica,
-								WesternUnitedStates,
+								IDTerritory.WesternUnitedStates,
 								IDTerritory.EasternUnitedStates,
 								IDTerritory.Quebec,
 								IDTerritory.Ontario,
 								IDTerritory.Alaska,
-								Alberta,
-								NorthwestTerritory,
+								IDTerritory.Alberta,
+								IDTerritory.NorthwestTerritory,
 								IDTerritory.Greenland)).contains(territory.getId())) {
 							System.out.println("Creating association : " + territory.getId().toString() + " - " + region.getId().toString());
 							territory.setRegion(region.getId());
@@ -154,44 +154,64 @@ public class MapGameState extends BasicGameState {
 			switch (territory.getId()) {
 				case Alaska:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Alberta, NorthwestTerritory, Kamchatka)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/Alaska.png"));
 				case Alberta:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Alaska, NorthwestTerritory, Ontario, WesternUnitedStates)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/Alberta.png"));
 				case CentralAmerica:
 					territory.setBorders(new ArrayList<>(Arrays.asList(WesternUnitedStates, Venezuela, EasternUnitedStates)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/CentralAmerica.png"));
 				case EasternUnitedStates:
 					territory.setBorders(new ArrayList<>(Arrays.asList(CentralAmerica, WesternUnitedStates, Ontario, Quebec)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/EasternUnitedStates.png"));
 				case Greenland:
 					territory.setBorders(new ArrayList<>(Arrays.asList(NorthwestTerritory, Ontario, Quebec, Iceland)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/Greenland.png"));
 				case NorthwestTerritory:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Alaska, Greenland, Ontario, Alberta)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/NorthwestTerritory.png"));
 				case Ontario:
 					territory.setBorders(new ArrayList<>(Arrays.asList(NorthwestTerritory, Greenland, Quebec, EasternUnitedStates, WesternUnitedStates, Alberta)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/Ontario.png"));
 				case Quebec:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Ontario, Greenland, EasternUnitedStates)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/Quebec.png"));
 				case WesternUnitedStates:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Alberta, Ontario, EasternUnitedStates, CentralAmerica)));
+					territory.setOccupancy(new Image("/res/Map/NorthAmerica/WesternUnitedStates.png"));
 				case Argentina:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Peru, Brazil)));
+					territory.setOccupancy(new Image("/res/Map/SouthAmerica/Argentina.png"));
 				case Brazil:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Venezuela, NorthAfrica, Argentina, Peru)));
+					territory.setOccupancy(new Image("/res/Map/SouthAmerica/Brazil.png"));
 				case Peru:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Venezuela, Brazil, Argentina)));
+					territory.setOccupancy(new Image("/res/Map/SouthAmerica/Peru.png"));
 				case Venezuela:
 					territory.setBorders(new ArrayList<>(Arrays.asList(CentralAmerica, Brazil, Peru)));
+					territory.setOccupancy(new Image("/res/Map/SouthAmerica/Venezuela.png"));
 				case GreatBritain:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Iceland, Scandinavia, NorthernEurope, WesternEurope)));
+					territory.setOccupancy(new Image("/res/Map/Europe/GreatBritain.png"));
 				case Iceland:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Greenland, GreatBritain, Scandinavia)));
+					territory.setOccupancy(new Image("/res/Map/Europe/Iceland.png"));
 				case NorthernEurope:
 					territory.setBorders(new ArrayList<>(Arrays.asList(GreatBritain, Ukraine, SouthernEurope, WesternEurope, Scandinavia)));
+					territory.setOccupancy(new Image("/res/Map/Europe/NorthernEurope.png"));
 				case Scandinavia:
 					territory.setBorders(new ArrayList<>(Arrays.asList(GreatBritain, Ukraine, NorthernEurope, Iceland)));
+					territory.setOccupancy(new Image("/res/Map/Europe/Scandinavia.png"));
 				case SouthernEurope:
 					territory.setBorders(new ArrayList<>(Arrays.asList(WesternEurope, NorthernEurope, Ukraine, Egypt, NorthAfrica, MiddleEast)));
+					territory.setOccupancy(new Image("/res/Map/Europe/SouthernEurope.png"));
 				case Ukraine:
 					territory.setBorders(new ArrayList<>(Arrays.asList(Scandinavia, Ural, Afghanistan, MiddleEast, SouthernEurope, NorthernEurope)));
+					territory.setOccupancy(new Image("/res/Map/Europe/Ukraine.png"));
 				case WesternEurope:
 					territory.setBorders(new ArrayList<>(Arrays.asList(GreatBritain, NorthernEurope, SouthernEurope, NorthAfrica)));
+					territory.setOccupancy(new Image("/res/Map/Europe/WesternEurope.png"));
 				case Congo:
 					territory.setBorders(new ArrayList<>(Arrays.asList(NorthAfrica, EastAfrica, SouthAfrica)));
 				case EastAfrica:
@@ -244,7 +264,7 @@ public class MapGameState extends BasicGameState {
 
 	@Override
 	public void render(GameContainer container, StateBasedGame game, Graphics g) throws SlickException {
-		background.draw(0, 0, WIDTH, HEIGHT);
+		background.draw(WIDTH/5, 0, WIDTH*4/5, HEIGHT);
 	}
 
 	@Override

@@ -2,7 +2,7 @@ package fr.isep.ii1202project.teritory;
 
 public enum IDTerritory {
 
-//	North America
+//	NorthAmerica
 
 	Alaska,
 	Alberta,
@@ -14,7 +14,7 @@ public enum IDTerritory {
 	Quebec,
 	WesternUnitedStates,
 
-//	South America
+//	SouthAmerica
 	
 	Argentina,
 	Brazil,

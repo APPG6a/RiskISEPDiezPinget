@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93edcc8b-0321-4be4-80cc-a13f60840c02" name="Default" comment="" />
+    <list default="true" id="93edcc8b-0321-4be4-80cc-a13f60840c02" name="Default" comment="Units and territories update">
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Alaska.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/Alaska.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Alberta.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/Alberta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Central America.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/CentralAmerica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Eastern United States.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/EasternUnitedStates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Greenland.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/Greenland.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Northwest Territory.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/NorthwestTerritory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Ontario.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/Ontario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Quebec.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/Quebec.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RiskISEP/Map/North America/Western United States.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/NorthAmerica/WesternUnitedStates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Alaska.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Alberta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Central America.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Eastern United States.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Greenland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Northwest Territory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Ontario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Quebec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/North America/Western United States.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Argentina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Argentina.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/SouthAmerica/Argentina.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Brazil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Brazil.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/SouthAmerica/Brazil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Peru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Peru.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/SouthAmerica/Peru.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Venezuela.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Map/South America/Venezuela.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Map/SouthAmerica/Venezuela.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/IDTerritory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/IDTerritory.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,12 +40,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainScreenGameState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="States.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/States.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -24,8 +56,11 @@
       <file leaf-file-name="MapGameState.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="246" column="45" lean-forward="true" selection-start-line="246" selection-start-column="45" selection-end-line="246" selection-end-column="45" />
+            <state relative-caret-position="410">
+              <caret line="193" column="34" lean-forward="true" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,20 +68,29 @@
       <file leaf-file-name="Region.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="187">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuGameState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MenuGameState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding>
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Units.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/units/Units.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -54,8 +98,50 @@
       <file leaf-file-name="IDRegion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/IDRegion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="102">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainScreenGameState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Territory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IDTerritory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/IDTerritory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -137,17 +223,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1615" />
-    <option name="height" value="860" />
+    <option name="x" value="-1818" />
+    <option name="y" value="-19" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,12 +243,20 @@
             <path>
               <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
               <item name="RiskISEPDiezPinget" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
               <item name="RiskISEPDiezPinget" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiskISEPDiezPinget" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+              <item name="Europe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
@@ -176,11 +269,34 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ii1202project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiskISEPDiezPinget" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ii1202project" type="462c0819:PsiDirectoryNode" />
+              <item name="region" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiskISEPDiezPinget" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ii1202project" type="462c0819:PsiDirectoryNode" />
+              <item name="teritory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiskISEPDiezPinget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiskISEPDiezPinget" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ii1202project" type="462c0819:PsiDirectoryNode" />
+              <item name="units" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,6 +324,906 @@
       <recent name="C:\Users\user\Desktop\II 1202 Algo\RiskISEP\RiskISEPDiezPinget\res" />
       <recent name="C:\Users\user\Desktop\II 1202 Algo\RiskISEP\RiskISEPDiezPinget\src\fr\isep\ii1202project" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/RiskISEP.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MainScreenGameState.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState$1.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/MapGameState.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/teritory/Territory.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/allclasses-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/allclasses-noframe.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/constant-values.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/deprecated-list.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/help-doc.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/index-all.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/AngelCodeFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Animation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/AppGameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.ConsolePanel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.Container.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.ContainerPanel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/AppletGameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/BasicGame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/BigImage.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/CachedRender.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/CanvasGameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Color.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/ControlledInputReciever.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/ControllerListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Font.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Game.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/GameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Graphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Image.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/ImageBuffer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Input.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/InputListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/KeyListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/MouseListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Music.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/MusicListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/PackedSpriteSheet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Renderable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/SavedState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/ScalableGame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/ShapeFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/SlickException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/Sound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/SpriteSheet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/SpriteSheetFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/TrueTypeFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/UnicodeFont.DisplayList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/UnicodeFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/XMLPackedSheet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AngelCodeFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Animation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppGameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.ConsolePanel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.Container.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.ContainerPanel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/AppletGameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/BasicGame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/BigImage.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/CachedRender.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/CanvasGameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Color.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ControlledInputReciever.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ControllerListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Font.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Game.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/GameContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Graphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Image.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ImageBuffer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Input.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/InputListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/KeyListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/MouseListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Music.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/MusicListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/PackedSpriteSheet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Renderable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SavedState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ScalableGame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/ShapeFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SlickException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/Sound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SpriteSheet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/SpriteSheetFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/TrueTypeFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/UnicodeFont.DisplayList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/UnicodeFont.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/class-use/XMLPackedSheet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/BasicCommand.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/Command.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/Control.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/ControllerButtonControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/ControllerDirectionControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/InputProvider.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/InputProviderListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/KeyControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/MouseButtonControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/BasicCommand.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/Command.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/Control.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/ControllerButtonControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/ControllerDirectionControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/InputProvider.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/InputProviderListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/KeyControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/class-use/MouseButtonControl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/command/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/GradientFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/class-use/GradientFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/fills/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/Glyph.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/GlyphPage.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/HieroSettings.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/class-use/Glyph.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/class-use/GlyphPage.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/class-use/HieroSettings.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ColorEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ConfigurableEffect.Value.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ConfigurableEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/Effect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/EffectUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/FilterEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/GradientEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/OutlineEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/OutlineWobbleEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/OutlineZigzagEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/ShadowEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ColorEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ConfigurableEffect.Value.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ConfigurableEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/Effect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/EffectUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/FilterEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/GradientEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/OutlineEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/OutlineWobbleEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/OutlineZigzagEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/class-use/ShadowEffect.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/effects/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/font/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/BasicTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Circle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Curve.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Ellipse.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/GeomUtil.HitResult.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/GeomUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/GeomUtilListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Line.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/MannTriangulator.PointBag.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/MannTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/MorphShape.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/NeatTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/OverTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Path.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Point.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Polygon.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Rectangle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/RoundedRectangle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Shape.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/ShapeRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/TexCoordGenerator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Transform.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Triangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/Vector2f.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/BasicTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Circle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Curve.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Ellipse.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/GeomUtil.HitResult.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/GeomUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/GeomUtilListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Line.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/MannTriangulator.PointBag.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/MannTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/MorphShape.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/NeatTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/OverTriangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Path.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Point.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Polygon.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Rectangle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/RoundedRectangle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Shape.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/ShapeRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/TexCoordGenerator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Transform.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Triangulator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/class-use/Vector2f.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/geom/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/AbstractComponent.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/BasicComponent.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/ComponentListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/GUIContext.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/MouseOverArea.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/TextField.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/AbstractComponent.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/BasicComponent.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/ComponentListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/GUIContext.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/MouseOverArea.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/class-use/TextField.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/gui/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageIOWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageOut.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/ImageWriterFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/TGAWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageIOWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageOut.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/ImageWriterFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/class-use/TGAWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/imageout/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/DeferredResource.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/LoadingList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/class-use/DeferredResource.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/class-use/LoadingList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/loading/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/FileMuffin.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/Muffin.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/WebstartMuffin.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/class-use/FileMuffin.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/class-use/Muffin.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/class-use/WebstartMuffin.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/muffin/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/AiffData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/Audio.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/AudioImpl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/AudioLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/DeferredSound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/MODSound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/NullAudio.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OggData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OggDecoder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OggInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/OpenALStreamPlayer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/SoundStore.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/StreamSound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/WaveData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/AiffData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/Audio.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/AudioImpl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/AudioLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/DeferredSound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/MODSound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/NullAudio.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OggData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OggDecoder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OggInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/OpenALStreamPlayer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/SoundStore.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/StreamSound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/class-use/WaveData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/openal/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/CompositeIOException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/CompositeImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/CursorLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/DeferredTexture.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/EmptyImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/GLUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/ImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/ImageDataFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/ImageIOImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/InternalTextureLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/LoadableImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/PNGDecoder.Format.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/PNGDecoder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/PNGImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/SlickCallable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/TGAImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/Texture.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/TextureImpl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/TextureLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/CompositeIOException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/CompositeImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/CursorLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/DeferredTexture.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/EmptyImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/GLUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/ImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/ImageDataFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/ImageIOImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/InternalTextureLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/LoadableImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/PNGDecoder.Format.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/PNGDecoder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/PNGImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/SlickCallable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/TGAImageData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/Texture.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/TextureImpl.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/class-use/TextureLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/FBOGraphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/GraphicsFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/PBufferGraphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/PBufferUniqueGraphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/FBOGraphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/GraphicsFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/PBufferGraphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/class-use/PBufferUniqueGraphics.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/pbuffer/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/DefaultLineStripRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/ImmediateModeOGLRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/LineStripRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/QuadBasedLineStripRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/Renderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/SGL.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/VAOGLRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/DefaultLineStripRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/ImmediateModeOGLRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/LineStripRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/QuadBasedLineStripRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/Renderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/SGL.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/class-use/VAOGLRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/opengl/renderer/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.ColorRecord.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.LinearInterpolator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.RandomValue.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.Range.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.SimpleValue.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.Value.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ConfigurableEmitterFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/Particle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ParticleEmitter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ParticleIO.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/ParticleSystem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.ColorRecord.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.LinearInterpolator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.RandomValue.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.Range.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.SimpleValue.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.Value.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ConfigurableEmitterFactory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/Particle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ParticleEmitter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ParticleIO.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/class-use/ParticleSystem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/FireEmitter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/class-use/FireEmitter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/effects/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/particles/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/BasicGameState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/GameState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/StateBasedGame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/class-use/BasicGameState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/class-use/GameState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/class-use/StateBasedGame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/BlobbyTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/CombinedTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/CrossStateTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/EmptyTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/FadeInTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/FadeOutTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/HorizontalSplitTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/RotateTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/SelectTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/Transition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/VerticalSplitTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/BlobbyTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/CombinedTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/CrossStateTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/EmptyTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/FadeInTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/FadeOutTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/HorizontalSplitTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/RotateTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/SelectTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/Transition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/class-use/VerticalSplitTransition.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/state/transition/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Diagram.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Figure.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Gradient.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/InkscapeLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/LinearGradientFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/Loader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/NonGeometricData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/ParsingException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/RadialGradientFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/SVGMorph.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/SimpleDiagramRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Diagram.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Figure.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Gradient.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/InkscapeLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/LinearGradientFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/Loader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/NonGeometricData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/ParsingException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/RadialGradientFill.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/SVGMorph.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/class-use/SimpleDiagramRenderer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/DefsProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/ElementProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/EllipseProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/GroupProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/InkscapeNonGeometricData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/LineProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/PathProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/PolygonProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/RectProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/UseProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/Util.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/DefsProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/ElementProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/EllipseProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/GroupProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/InkscapeNonGeometricData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/LineProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/PathProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/PolygonProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/RectProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/UseProcessor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/class-use/Util.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/inkscape/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/svg/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/AlphaMapTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/AnimationTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/AntiAliasTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/BigImageTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/BigSpriteSheetTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CachedRenderTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CanvasContainerTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CanvasSizeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ClipTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CopyAreaAlphaTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/CurveTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DeferredLoadingTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DistanceFieldTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DoubleClickTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/DuplicateEmitterTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/FlashTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/FontPerformanceTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/FontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GUITest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomAccuracyTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomUtilTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GeomUtilTileTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GradientImageTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GradientTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/GraphicsTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageBufferEndianTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageBufferTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageCornerTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageGraphicsTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageMemTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageOutTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageReadTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ImageTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/InkscapeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/InputProviderTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/InputTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/IsoTiledTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/KeyRepeatTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/LameTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/LineRenderTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/MorphSVGTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/MorphShapeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/MusicListenerTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/NavMeshTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PackedSheetTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ParticleTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PedigreeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PolygonTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/PureFontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SavedStateTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ScalableTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/ShapeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SlickCallableTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SoundPositionTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SoundTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SoundURLTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/SpriteSheetFontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/StateBasedTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TestBox.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TestUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TexturePaintTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TileMapTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransformTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransformTest2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransitionTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TransparentColorTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/TrueTypeFontPerformanceTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/UnicodeFontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/AlphaMapTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/AnimationTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/AntiAliasTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/BigImageTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/BigSpriteSheetTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CachedRenderTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CanvasContainerTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CanvasSizeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ClipTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CopyAreaAlphaTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/CurveTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DeferredLoadingTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DistanceFieldTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DoubleClickTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/DuplicateEmitterTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/FlashTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/FontPerformanceTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/FontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GUITest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomAccuracyTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomUtilTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GeomUtilTileTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GradientImageTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GradientTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/GraphicsTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageBufferEndianTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageBufferTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageCornerTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageGraphicsTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageMemTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageOutTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageReadTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ImageTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/InkscapeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/InputProviderTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/InputTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/IsoTiledTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/KeyRepeatTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/LameTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/LineRenderTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/MorphSVGTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/MorphShapeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/MusicListenerTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/NavMeshTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PackedSheetTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ParticleTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PedigreeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PolygonTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/PureFontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SavedStateTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ScalableTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/ShapeTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SlickCallableTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SoundPositionTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SoundTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SoundURLTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/SpriteSheetFontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/StateBasedTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TestBox.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TestUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TexturePaintTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TileMapTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransformTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransformTest2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransitionTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TransparentColorTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/TrueTypeFontPerformanceTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/class-use/UnicodeFontTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/TestState1.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/TestState2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/TestState3.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/class-use/TestState1.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/class-use/TestState2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/class-use/TestState3.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/states/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Entity.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/GameData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Inventory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Item.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/ItemContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/ObjectParserTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/Stats.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/XMLTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Entity.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/GameData.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Inventory.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Item.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/ItemContainer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/ObjectParserTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/Stats.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/class-use/XMLTest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tests/xml/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/Layer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TileSet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TiledMap.GroupObject.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TiledMap.ObjectGroup.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/TiledMap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/Layer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TileSet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TiledMap.GroupObject.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TiledMap.ObjectGroup.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/class-use/TiledMap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/tiled/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/Bootstrap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/BufferedImageUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/ClasspathLocation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/DefaultLogSystem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FastTrig.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FileSystemLocation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FontUtils.Alignment.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/FontUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/InputAdapter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/LocatedImage.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/Log.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/LogSystem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/MaskUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/OperationNotSupportedException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/ResourceLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/ResourceLocation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/Bootstrap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/BufferedImageUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/ClasspathLocation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/DefaultLogSystem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FastTrig.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FileSystemLocation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FontUtils.Alignment.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/FontUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/InputAdapter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/LocatedImage.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/Log.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/LogSystem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/MaskUtil.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/OperationNotSupportedException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/ResourceLoader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/class-use/ResourceLocation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/AStarHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/AStarPathFinder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/Mover.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/Path.Step.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/Path.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/PathFinder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/PathFindingContext.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/TileBasedMap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/AStarHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/AStarPathFinder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/Mover.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/Path.Step.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/Path.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/PathFinder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/PathFindingContext.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/class-use/TileBasedMap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ClosestHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ClosestSquaredHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ManhattanHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/class-use/ClosestHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/class-use/ClosestSquaredHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/class-use/ManhattanHeuristic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/Link.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/NavMesh.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/NavMeshBuilder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/NavPath.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/Space.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/Link.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/NavMesh.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/NavMeshBuilder.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/NavPath.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/class-use/Space.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/navmesh/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/pathfinding/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/ObjectTreeParser.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/SlickXMLException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/XMLElement.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/XMLElementList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/XMLParser.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/ObjectTreeParser.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/SlickXMLException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/XMLElement.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/XMLElementList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/class-use/XMLParser.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/org/newdawn/slick/util/xml/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/overview-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/overview-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/overview-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/package-list</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/resources/inherit.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/serialized-form.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/javadoc/stylesheet.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/lib/jogg-0.0.7.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/lib/jorbis-0.0.15.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/1. God of War _ God of War OST.mp3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/1020.ogg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/TheLoomingBattle.OGG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/RiskISEP/fr/isep/ii1202project/region/Territory.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/res/1. God of War _ God of War OST.mp3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/res/1020.ogg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/res/BlankPanel-3.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/res/TheLoomingBattle.OGG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/scripts/game-build-example.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/scripts/slickdemo.jnlp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/scripts/slickexample.jnlp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/scripts/slicktemplate.jnlp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/scripts/slicktemplatewithdata.jnlp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/scripts/slickwithextension.jnlp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/fr/isep/ii1202project/region/Territory.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -387,7 +1403,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60884000" />
+    <option name="totallyTimeSpent" value="61830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,7 +1415,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
@@ -411,12 +1428,14 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32768363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26271185" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32627118" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26252723" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18409586" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29060403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23081024" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -424,13 +1443,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info id="Learn" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29060403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -442,7 +1461,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -654,22 +1673,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/States.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="221">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="204">
           <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MenuGameState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="136">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -682,15 +1710,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/teritory/Territory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="246" column="45" lean-forward="true" selection-start-line="246" selection-start-column="45" selection-end-line="246" selection-end-column="45" />
+        <state relative-caret-position="177">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -718,34 +1742,32 @@
     <entry file="file://$PROJECT_DIR$/src/org/newdawn/slick/openal/MODSound.java" />
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/IDRegion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/region/Region.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MainScreenGameState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="394">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/isep/ii1202project/MapGameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="193" column="34" lean-forward="true" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
